@@ -1,0 +1,14 @@
+{
+  "name": "devfetch-themes",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "validate": "tsx scripts/validate.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ajv": "^6.12.6",
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
