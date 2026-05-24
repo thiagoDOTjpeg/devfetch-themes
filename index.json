@@ -24,6 +24,12 @@
       "label": "Catppuccin",
       "author": "devfetch",
       "file": "themes/catppuccin.json"
+    },
+    {
+      "id": "tokyo-night",
+      "label": "Tokyo Night",
+      "author": "enkia",
+      "file": "themes/tokyo-night.json"
     }
   ]
 }

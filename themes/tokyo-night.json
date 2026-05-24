@@ -1,0 +1,22 @@
+{
+  "id": "tokyo-night",
+  "label": "Tokyo Night",
+  "author": "enkia",
+  "bg": "#1a1b2e",
+  "surface": "#24283b",
+  "border": "#414868",
+  "accent": "#7aa2f7",
+  "blue": "#7aa2f7",
+  "green": "#9ece6a",
+  "purple": "#bb9af7",
+  "orange": "#ff9e64",
+  "yellow": "#e0af68",
+  "text": "#c0caf5",
+  "muted": "#565f89",
+  "artFill": "#414868",
+  "artOpacity": 0.1,
+  "heat": ["#24283b", "#1a3a4a", "#1e4a6e", "#7aa2f7"],
+  "dots": ["#f7768e", "#e0af68", "#9ece6a"],
+  "crosshatch": false,
+  "ornate": false
+}
