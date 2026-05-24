@@ -1,0 +1,29 @@
+{
+  "version": "1",
+  "themes": [
+    {
+      "id": "dore",
+      "label": "Gustave Doré",
+      "author": "devfetch",
+      "file": "themes/dore.json"
+    },
+    {
+      "id": "github",
+      "label": "GitHub Dark",
+      "author": "devfetch",
+      "file": "themes/github.json"
+    },
+    {
+      "id": "nord",
+      "label": "Nord",
+      "author": "devfetch",
+      "file": "themes/nord.json"
+    },
+    {
+      "id": "catppuccin",
+      "label": "Catppuccin",
+      "author": "devfetch",
+      "file": "themes/catppuccin.json"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "catppuccin",
+  "label": "Catppuccin",
+  "author": "devfetch",
+  "bg": "#1e1e2e",
+  "surface": "#181825",
+  "border": "#313244",
+  "accent": "#cba6f7",
+  "blue": "#89b4fa",
+  "green": "#a6e3a1",
+  "purple": "#cba6f7",
+  "orange": "#fab387",
+  "yellow": "#f9e2af",
+  "text": "#cdd6f4",
+  "muted": "#6c7086",
+  "artFill": "#45475a",
+  "artOpacity": 0.12,
+  "heat": ["#313244", "#3b5e3a", "#4e7a4e", "#a6e3a1"],
+  "dots": ["#f38ba8", "#f9e2af", "#a6e3a1"],
+  "crosshatch": false,
+  "ornate": false
+}

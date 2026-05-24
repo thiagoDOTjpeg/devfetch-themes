@@ -1,0 +1,22 @@
+{
+  "id": "nord",
+  "label": "Nord",
+  "author": "devfetch",
+  "bg": "#2e3440",
+  "surface": "#3b4252",
+  "border": "#4c566a",
+  "accent": "#88c0d0",
+  "blue": "#88c0d0",
+  "green": "#a3be8c",
+  "purple": "#b48ead",
+  "orange": "#d08770",
+  "yellow": "#ebcb8b",
+  "text": "#eceff4",
+  "muted": "#d8dee9",
+  "artFill": "#4c566a",
+  "artOpacity": 0.12,
+  "heat": ["#3b4252", "#4c6b4a", "#5e8a5c", "#a3be8c"],
+  "dots": ["#bf616a", "#ebcb8b", "#a3be8c"],
+  "crosshatch": false,
+  "ornate": false
+}

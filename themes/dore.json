@@ -1,0 +1,22 @@
+{
+  "id": "dore",
+  "label": "Gustave Doré",
+  "author": "devfetch",
+  "bg": "#0c0906",
+  "surface": "#161008",
+  "border": "#4a3820",
+  "accent": "#c9a84c",
+  "blue": "#d4a853",
+  "green": "#7a9e6e",
+  "purple": "#a07898",
+  "orange": "#b5622a",
+  "yellow": "#c9a84c",
+  "text": "#e8dcc8",
+  "muted": "#8a7560",
+  "artFill": "#8b6914",
+  "artOpacity": 0.22,
+  "heat": ["#2a1a06", "#5a3810", "#8f5e18", "#c9a84c"],
+  "dots": ["#3a1515", "#3a2e0a", "#0f2a10"],
+  "crosshatch": true,
+  "ornate": true
+}

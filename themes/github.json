@@ -1,0 +1,22 @@
+{
+  "id": "github",
+  "label": "GitHub Dark",
+  "author": "devfetch",
+  "bg": "#0d1117",
+  "surface": "#161b22",
+  "border": "#30363d",
+  "accent": "#58a6ff",
+  "blue": "#58a6ff",
+  "green": "#3fb950",
+  "purple": "#bc8cff",
+  "orange": "#f78166",
+  "yellow": "#d29922",
+  "text": "#e6edf3",
+  "muted": "#8b949e",
+  "artFill": "#8b949e",
+  "artOpacity": 0.05,
+  "heat": ["#0e4429", "#006d32", "#26a641", "#39d353"],
+  "dots": ["#ff5f57", "#febc2e", "#28c840"],
+  "crosshatch": false,
+  "ornate": false
+}
